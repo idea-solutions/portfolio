@@ -1,6 +1,6 @@
 const SOCIAL_LIST = [
 	{
-		link: 'https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=tuannguyentn2504@gmail.com',
+		link: 'https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=huynh.dev.24@gmail.com',
 		iconClass: 'fas fa-envelope',
 	},
 	{
@@ -8,7 +8,7 @@ const SOCIAL_LIST = [
 		iconClass: 'fab fa-linkedin',
 	},
 	{
-		link: 'https://github.com/TuanNguyen2504',
+		link: 'https://github.com/huynhdev24',
 		iconClass: 'fab fa-github',
 	},
 	{
