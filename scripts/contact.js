@@ -1,7 +1,7 @@
 const CONTACT_INFOS = [
 	{
 		label: 'Full Name',
-		content: 'Nguyen Le Anh Tuan',
+		content: 'Nguyen Van Huynh',
 	},
 	{
 		label: 'Other Name',
@@ -9,7 +9,7 @@ const CONTACT_INFOS = [
 	},
 	{
 		label: 'Birthday',
-		content: '25-04-2000',
+		content: '24-02-2001',
 	},
 	{
 		label: 'Address',
@@ -17,7 +17,7 @@ const CONTACT_INFOS = [
 	},
 	{
 		label: 'Study',
-		content: 'VNU - University Of Science HCM City (HCMUS)',
+		content: 'HUTECH -HUTECH University (HUTECH)',
 	},
 	{
 		label: 'Major',
@@ -32,13 +32,13 @@ const CONTACT_INFOS = [
 const CONTACT_SOCIAL_NETWORKS = [
 	{
 		label: 'Phone',
-		content: '(+84) 978725040',
+		content: '(+84) 123456789',
 		link: '#',
 		iconClass: 'fas fa-phone-square-alt',
 	},
 	{
 		label: 'Email',
-		content: 'tuannguyentn2504@gmail.com',
+		content: 'huynh.dev.24@gmail.com',
 		link: 'https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=tuannguyentn2504@gmail.com',
 		iconClass: 'fas fa-envelope',
 	},
@@ -50,8 +50,8 @@ const CONTACT_SOCIAL_NETWORKS = [
 	},
 	{
 		label: 'Github',
-		content: 'TuanNguyen2504',
-		link: 'https://github.com/TuanNguyen2504',
+		content: 'huynhdev24',
+		link: 'https://github.com/huynhdev24',
 		iconClass: 'fab fa-github',
 	},
 	{
