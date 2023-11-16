@@ -1,5 +1,5 @@
 const INTRODUCES = [
-	"🤵 I'm a Computer Science and Engineering Student (Information System) at the HCMUS.",
+	"🤵 I'm a Computer Science and Engineering Student (Information System) at the HUTECH.",
 	'👨‍💻 I’m currently working on web development technologies like JavaScript, TypeScript, ReactJS, NextJS, MERN Stack etc.',
 	'🎯 Future Goals: Learning to become a full-stack developer.',
 	'⚡ Fun facts: Open and friendly, I love to the play guitar & code.',
